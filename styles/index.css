@@ -1,0 +1,24 @@
+
+/* @import url('https://fonts.googleapis.com/css?family=Josefin+Slab'); */
+
+body.board-schedule {
+    background: #2B2D2F;
+}
+
+div.board {
+  text-align: center;
+}
+
+table {
+  width: 100%
+}
+
+.schedule-headers,
+.board-headers {
+  color: #F5F5F5;
+}
+
+.train-schedules {
+  color: #FFFF99;
+}
+
